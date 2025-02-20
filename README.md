@@ -1,0 +1,3 @@
+# Analyzing Student Mental Health: Impact Assessment and Classification Using SVM
+
+This project analyzes student mental health based on data covering factors such as age, gender, major, and stress levels, with a focus on depression, anxiety, and panic attacks. The data underwent cleaning, normalization, and distribution analysis using a Q-Q plot to ensure proper preprocessing. A Support Vector Machine (SVM) model was then applied for classification, achieving 94% accuracy but facing challenges in handling class imbalances. The analysis revealed that major had the most significant impact on student mental health (30.6%), while age and gender had smaller effects.
